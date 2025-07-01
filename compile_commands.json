@@ -1,0 +1,7 @@
+[
+    {
+	"directory": "/home/dry/programming/c/imp",
+	"command"  : "clang++ -Iincludes main.c -o ./build/libimp.a -c"
+	"file"     : "main.c"
+    }
+]
